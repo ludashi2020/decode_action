@@ -1,4 +1,4 @@
-//Tue Feb 18 2025 10:04:31 GMT+0000 (Coordinated Universal Time)
+//Tue Feb 18 2025 10:18:20 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 async function getsig(_0x4df481, _0x208fb1, _0x2b2ab8, _0x238aea = 3000) {
